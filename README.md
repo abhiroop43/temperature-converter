@@ -11,28 +11,28 @@ Welcome to the Temperature Converter! This simple Rust program allows you to con
 
 2. Navigate to the project directory:
 
-  ```bash
+   ```bash
    cd temperature-converter
 
 3. Build and run the program:
 
-  ```bash
+   ```bash
    cargo run
 
 4. Follow the on-screen instructions to select the conversion type and enter the temperature value.
 
 ## Features
 
-  - Converts Fahrenheit to Celsius and vice versa.
-  - User-friendly interface with clear instructions.
-  - Error handling for invalid user input.
+- Converts Fahrenheit to Celsius and vice versa.
+- User-friendly interface with clear instructions.
+- Error handling for invalid user input.
 
 ## Dependencies
 
-  - Rust - The programming language used for the project.
+- Rust - The programming language used for the project.
 
 ## Acknowledgments
 
-  - Built with ❤️ and Rust.
+- Built with ❤️ and Rust.
 
 Feel free to contribute, report issues, or suggest improvements!
